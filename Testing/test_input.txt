@@ -1,0 +1,11 @@
+{
+	FD
+	45
+	SET
+	A
+	:=
+	DO
+	FROM
+	TO
+	;
+}

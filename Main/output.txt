@@ -1,0 +1,14 @@
+{ 
+
+DO A FROM 1 TO 3 
+{ 
+FD 300 RT 120 
+DO B FROM 1 TO 4 
+{ 
+FD 200 RT 90 
+DO C FROM 1 TO 3 
+{ 
+FD 100 RT 120  }
+ }
+ }
+}
